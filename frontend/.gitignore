@@ -1,0 +1,11 @@
+# Folder library Node.js
+node_modules/
+
+# Folder hasil build
+dist/
+
+# File log dan cache
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.vite/
