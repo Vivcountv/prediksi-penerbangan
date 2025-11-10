@@ -5,4 +5,4 @@ numpy
 joblib
 lightgbm
 scikit-learn
-python-multipart    
+python-multipart
